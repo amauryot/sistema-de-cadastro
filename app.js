@@ -1,4 +1,4 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
-console.log("AplicaÃ§Ã£o estÃ¡ se conectando ao banco de dados...")
+console.log("Aplicação está se conectando ao banco de dados...")
 // mais um console log de teste:
-console.log("O Paulo fez esse commit sem vocÃª ver na aula!")
+console.log("O Paulo fez esse commit sem você ver na aula!")
